@@ -1,2 +1,17 @@
-# Added by code-review-graph
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# code-review-graph
 .code-review-graph/
+
+# graphify
+graphify-out/
+
+# Claude
+.claude/
+
+# IDE
+.vscode/
+.idea/
